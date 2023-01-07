@@ -1,0 +1,41 @@
+{
+  "title": "Cormyr: The Tearing of the Weave",
+  "version": "0.1.0",
+  "packs": [
+    {
+      "label": "Spells",
+      "type": "Item",
+      "name": "spells",
+      "path": "packs/spells.db",
+      "system": "D35E",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Class Abilities",
+      "type": "Item",
+      "name": "class-abilities",
+      "path": "packs/class-abilities.db",
+      "system": "D35E",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Classes",
+      "type": "Item",
+      "name": "classes",
+      "path": "packs/classes.db",
+      "system": "D35E",
+      "private": false,
+      "flags": {}
+    }
+  ],
+  "url": "https://github.com/downshiftdata/tearing-of-the-weave",
+  "manifest": "https://github.com/downshiftdata/tearing-of-the-weave/blob/main/module.json",
+  "background": "images/Cormyr_The_Tearing_of_the_Weave.png",
+  "id": "tearing-of-the-weave",
+  "compatibility": {
+    "verified": "10.291",
+    "minimum": "10"
+  }
+}
